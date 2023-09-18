@@ -12,10 +12,9 @@ p {
   padding: 0;
 }
 /* without changing the existing css i applied and learned the cascading */
-p{
+.white-text{
   color:white;
 }
-
 
 #in-box1{
   background-color:red;
